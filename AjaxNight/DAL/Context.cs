@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AjaxNight.DAL.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace AjaxNight.DAL
 {

@@ -1,4 +1,4 @@
-﻿namespace AjaxNight.DAL
+﻿namespace AjaxNight.DAL.Entities
 {
     public class Product
     {

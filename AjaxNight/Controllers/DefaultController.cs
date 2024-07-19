@@ -1,4 +1,5 @@
 ﻿using AjaxNight.DAL;
+using AjaxNight.DAL.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 
